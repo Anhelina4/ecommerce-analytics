@@ -1,7 +1,7 @@
 # ecommerce-analytics
 
 ## Overview
-Multi-dimensional analysis of account creation and email campaign performance . The query consolidates account-level and email-level metrics, ranks markets by performance, and filters results to top-10 countries by user acquisition or email volume.
+Multi-dimensional analysis of account creation and email campaign performance. The query consolidates account-level and email-level metrics, ranks markets by performance, and filters results to top-10 countries by user acquisition or email volume.
 
 ## Data Model
 
