@@ -39,8 +39,7 @@ Multi-dimensional analysis of account creation and email campaign performance. T
 
 ## Visualization
 
-<img width="627" height="509" alt="Screenshot 2026-06-08 at 11 49 02" src="https://github.com/user-attachments/assets/878d756b-613d-4894-bcdd-f1335127e089" />
-
+<img width="622" height="455" alt="Screenshot 2026-06-08 at 11 53 30" src="https://github.com/user-attachments/assets/20197f79-b7cb-4d83-8f2b-5dbea4f36bf3" />
 
 ## Technology Stack
 
